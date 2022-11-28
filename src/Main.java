@@ -1,5 +1,6 @@
 public class Main {
     public static void main(String[] args) {
+        System.out.println("Задание 1, 2");
         Human maksim = new Human("Максим", "Минск", 35, "бренд-менеджером");
         Human ann = new Human("Аня", "Москва", 29, "методистом образовательных программ");
         Human kat = new Human("Катя", "Калиниград", 28, "продакт менеджером");
